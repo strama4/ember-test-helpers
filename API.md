@@ -759,7 +759,7 @@ Returns **[Promise][54]&lt;[Object][60]>** resolves with the context that was se
 
 ### getContext
 
-Retrive the "global testing context" as stored by `setContext`.
+Retrieve the "global testing context" as stored by `setContext`.
 
 Returns **[Object][60]** the previously stored testing context
 
